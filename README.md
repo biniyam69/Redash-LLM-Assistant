@@ -96,6 +96,17 @@ $ make up
 
 Access Redash web interface at http://localhost:5001.
 
+### Screenshots
+
+Creating a query
+---
+![create_query](https://github.com/biniyam69/AI-Contract-Lawyer/assets/91191700/c1b55f56-dee1-4453-87d5-85903e418e4e)
+---
+
+Visualizing
+---
+![creating_visualization](https://github.com/biniyam69/AI-Contract-Lawyer/assets/91191700/29662f7a-934f-48b1-b410-2509d3ddccae)
+---
 ## Shut Down Containers
 
 ```bash
