@@ -115,4 +115,4 @@ $ make down
 
 ---
 
-This Markdown guide organizes the setup steps into sections and provides the commands in a structured and readable format. Adjust any specific details as needed for your environment.
+Open for collaborations
