@@ -1,4 +1,4 @@
-### LLM Assistant Plugin for Redash - Visualize Data with Natural Language
+# LLM Assistant Plugin for Redash - Visualize Data with Natural Language
 
 ---
 
